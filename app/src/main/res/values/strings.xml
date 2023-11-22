@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">moneyfine</string>
+    <string name="connect">Connect</string>
+    <string name="category">Category</string>
+    <string name="estimate">Estimate</string>
+    <string name="price">Price</string>
+</resources>

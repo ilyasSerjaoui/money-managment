@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1087633913134",
+    "firebase_url": "https://moneyfine-51f29-default-rtdb.firebaseio.com",
+    "project_id": "moneyfine-51f29",
+    "storage_bucket": "moneyfine-51f29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087633913134:android:5601f760aa5ce9a580b6bf",
+        "android_client_info": {
+          "package_name": "atlas.app.moneyfine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARLtvo8ho93GcT8ZwDluwcBRwoRZSkLfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
